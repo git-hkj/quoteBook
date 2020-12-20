@@ -1,4 +1,5 @@
 Strength through struggle
 	-Micheal Choi
-I am learning Git tonight
+
+I am learning Git today
 	-Haynes	
