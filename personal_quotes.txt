@@ -1,2 +1,4 @@
 Strength through struggle
 	-Micheal Choi
+I am learning Git on
+	-Hayne	
